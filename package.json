@@ -1,0 +1,21 @@
+{
+    "name": "calm",
+    "displayName": "Calm",
+    "description": "Developing...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calm-Minded",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calm-Minded-color-theme.json"
+            }
+        ]
+    }
+}
